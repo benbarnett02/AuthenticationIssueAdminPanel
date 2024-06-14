@@ -1,0 +1,3 @@
+﻿name: MinRep.Iac
+runtime: dotnet
+description: MinRep infrastructure as a code

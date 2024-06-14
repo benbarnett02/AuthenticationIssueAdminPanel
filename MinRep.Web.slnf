@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "MinRep.sln",
+    "projects": [
+      "src\\MinRep.Server\\MinRep.Server.csproj",
+      "src\\MinRep.Shared\\MinRep.Shared.csproj",
+      "src\\Client\\MinRep.Client.Core\\MinRep.Client.Core.csproj",
+      "src\\Client\\MinRep.Client.Web\\MinRep.Client.Web.csproj"
+    ]
+  }
+}
